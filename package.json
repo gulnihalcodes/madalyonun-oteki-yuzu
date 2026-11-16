@@ -1,0 +1,13 @@
+{
+  "name": "madalyonun-oteki-yuzu",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TNC Web Geliştirme / JavaScript bitirme projesi",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "3.7.1"
+  }
+}
